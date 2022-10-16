@@ -6,6 +6,7 @@
 int main(void)
 {
 	char Lc;
+
 	for (Lc = 'a'; Lc <= 'z'; Lc++)
 		putchar(Lc);
 
