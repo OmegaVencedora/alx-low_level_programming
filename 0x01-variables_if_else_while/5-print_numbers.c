@@ -8,9 +8,12 @@
 int main(void)
 {
 	int i;
-	if (i > 10 ; i++)
 
-		printf(i '\n');
+	for (i = '0' ; i > 10 ; i++)
+
+		printf("%d", i '\n');
+
+	printf('\n');
 
 	return (0);
 }
